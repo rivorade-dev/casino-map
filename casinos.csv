@@ -1,0 +1,67 @@
+nazwa,adres,latitude,longitude,data_otwarcia,data_zamkniecia,status,firma,uwagi
+Kasyno Gdańsk Chmielna,ul. Chmielna 10, Gdańsk,54.352,18.646,2020-03-12,,czynne,,
+Kasyno Koszalin Zwycięstwa,ul. Zwycięstwa 20-24, Koszalin,54.194,16.172,2021-04-06,,czynne,,
+Kasyno Warszawa Krucza,ul. Krucza 28, Warszawa,52.229,21.012,2022-03-10,,czynne,,
+Kasyno Warszawa Jerozolimskie,Al. Jerozolimskie 65/79, Warszawa,52.229,21.012,2022-09-01,,czynne,,Złote Tarasy
+Kasyno Warszawa Senatorska,ul. Senatorska 13/15, Warszawa,52.235,21.008,2022-09-01,,czynne,,
+Kasyno Warszawa Królewska,ul. Królewska 11, Warszawa,52.242,21.011,2022-09-01,,czynne,,
+Kasyno Bydgoszcz Gdańska,ul. Gdańska 14, Bydgoszcz,53.123,18.008,2022-09-28,,czynne,,
+Kasyno Toruń Przedzamcze,ul. Przedzamcze 5, Toruń,53.013,18.598,2022-09-28,,czynne,,
+Kasyno Opole Krakowska,ul. Krakowska 57-59, Opole,50.675,17.921,2022-10-25,,czynne,,
+Kasyno Elbląg Słowiański,Plac Słowiański 2, Elbląg,54.156,19.404,2022-11-18,,czynne,,
+Kasyno Olsztyn Dąbrowszczaków,ul. Dąbrowszczaków 10, Olsztyn,53.778,20.480,2022-11-18,,czynne,,
+Kasyno Tarnów Krakowska,ul. Krakowska 9, Tarnów,50.012,20.986,2022-12-09,,czynne,,
+Kasyno Lublin Grodzka,ul. Grodzka 30, Lublin,51.246,22.568,2023-03-09,,czynne,,
+Kasyno Katowice Korfantego,Al. Korfantego 9, Katowice,50.259,19.022,2023-03-09,,czynne,,
+Kasyno Kielce Sienkiewicza,ul. Sienkiewicza 78, Kielce,50.871,20.631,2023-03-16,,czynne,,
+Kasyno Rzeszów Rynek,ul. Rynek 13-14, Rzeszów,50.041,22.003,2023-03-16,,czynne,,
+Kasyno Sopot Powstańców,ul. Powstańców Warszawy 12/14, Sopot,54.441,18.560,2023-04-27,,czynne,,
+Kasyno Białystok Kościuszki,Rynek Kościuszki 11, Białystok,53.132,23.168,2023-06-19,,czynne,,
+Kasyno Gdańsk Długi Targ,ul. Długi Targ 14-16, Gdańsk,54.348,18.653,2023-06-28,,czynne,,
+Kasyno Szczecin Wyzwolenia,Al. Wyzwolenia 50, Szczecin,53.428,14.553,2023-08-14,,czynne,,
+Kasyno Tarnobrzeg Wyszyńskiego,ul. Kardynała Stefana Wyszyńskiego 4, Tarnobrzeg,50.573,21.679,2023-09-06,,czynne,,
+Kasyno Stalowa Wola Wyszyńskiego,ul. Ks. Prymasa Wyszyńskiego 12, Stalowa Wola,50.569,22.064,2023-11-21,,czynne,,
+Kasyno Wrocław Piłsudskiego,ul. Piłsudskiego 66, Wrocław,51.107,17.038,2023-11-29,,czynne,,
+Kasyno Bielawa Korczaka,ul. Janusza Korczaka 1-4, Bielawa,50.691,16.623,2023-11-29,,czynne,,
+Kasyno Chorzów Batorego,ul. Stefana Batorego 35, Chorzów,50.298,18.955,2024-01-31,,czynne,,
+Kasyno Bielsko-Biała Partyzantów,ul. Partyzantów 22, Bielsko-Biała,49.822,19.044,2024-01-31,,czynne,,
+Kasyno Katowice Bytkowska,ul. Bytkowska 1A, Katowice,50.259,19.022,2024-01-31,,czynne,,
+Kasyno Sosnowiec Modrzejowska,ul. Modrzejowskiej 3, Sosnowiec,50.279,19.125,2024-01-31,,czynne,,
+Kasyno Łódź Łąkowa,ul. Łąkowa 23/25, Łódź,51.773,19.454,2024-03-28,,czynne,,
+Kasyno Poznań Wyspiańskiego,ul. Wyspiańskiego 26a, Poznań,52.406,16.925,2024-06-25,,czynne,,
+Kasyno Poznań Andersa,Plac gen. Władysława Andersa 1, Poznań,52.406,16.925,2024-06-25,,czynne,,
+Kasyno Wrocław Ruska,ul. Ruska 6/7, Wrocław,51.107,17.038,2024-06-20,,czynne,,
+Kasyno Tychy Jana Pawła II,ul. Jana Pawła II 108, Tychy,50.124,19.002,2024-06-27,,czynne,,
+Kasyno Kraków Floriańska,ul. Floriańska 35, Kraków,50.064,19.945,2024-08-01,,czynne,,
+Kasyno Kraków Sienkiewicza,ul. Sienkiewicza 27, Kraków,50.064,19.945,2024-08-01,,czynne,,
+Kasyno Kraków Sławkowska,ul. Sławkowska 3, Kraków,50.064,19.945,2024-08-01,,czynne,,
+Kasyno Kraków Lubicz,ul. Lubicz 4, Kraków,50.064,19.945,2024-10-23,,czynne,,
+Kasyno Warszawa Powstańców,ul. Pl. Powstańców Warszawy 2, Warszawa,52.229,21.012,2024-10-31,,czynne,,
+Kasyno Warszawa Smolna,ul. Smolna 40, Warszawa,52.235,21.023,2024-10-31,,czynne,,
+Kasyno Lublin Grodzka,ul. Grodzka 30, Lublin,51.246,22.568,2025-01-21,,czynne,,
+Kasyno Zamość Kołłątaja,ul. Kołłątaja 2/4/6, Zamość,50.717,23.252,2025-01-21,,czynne,,
+Kasyno Gorzów Wielkopolski Kosynierów,ul. Kosynierów Gdyńskich 8, Gorzów Wielkopolski,52.736,15.228,2025-02-20,,czynne,,
+Kasyno Wrocław Oławska,Oławska 2, Wrocław,51.107,17.038,2025-03-05,,czynne,,
+Kasyno Kalisz Fabryczna,ul. Fabryczna 1B, Kalisz,51.761,18.091,2025-02-06,,czynne,,
+Kasyno Konin Przemysłowa,ul. Przemysłowa 10, Konin,52.223,18.251,2025-02-06,,czynne,,
+Kasyno Częstochowa Schott,al. Kościuszki 1, Częstochowa,50.812,19.121,,2024-07-07,zamkniete,Bingo Centrum,Jedyne kasyno w Częstochowie przez wiele lat
+Kasyno Warszawa Hilton,ul. Grzybowska 63, Warszawa,52.233,21.000,2007,2016-09-23,zamkniete,Olympic Casino,Największe kasyno w Polsce (1700 m²)
+Kasyno Warszawa Victoria,ul. Jasna, Warszawa,52.236,21.007,1989,,zamkniete,,Pierwsze kasyno w Warszawie po 1989 roku
+Kasyno Warszawa Marriott,Al. Jerozolimskie 65/79, Warszawa,52.220,21.003,1990,,zamkniete,,Jedno z pierwszych kasyn w Warszawie
+Kasyno Kraków Pod Różą,ul. Floriańska, Kraków,50.062,19.940,1989-07,,zamkniete,,Pierwsze kasyno w Krakowie po transformacji
+Kasyno Sopot Grand Hotel,ul. Powstańców Warszawy 12/14, Sopot,54.444,18.568,1990,,zamkniete,,Trzecie kasyno w Polsce po transformacji
+Kasyno Gdańsk Długa,ul. Długa 75/76, Gdańsk,54.348,18.653,1991-11-10,,zamkniete,Casinos Poland,Jedno z pierwszych kasyn Casinos Poland
+Kasyno Gdynia Teatr Muzyczny,Teatr Muzyczny, Gdynia,54.518,18.531,1992,,zamkniete,Jack Pol,Otwarte w 1992 roku przez Jack Pol
+Kasyno Gdynia Skwer Kościuszki,Skwer Kościuszki 15, Gdynia,54.518,18.531,2011-08,,zamkniete,Casinos Poland,Przeniesione z Teatru Muzycznego
+Kasyno Warszawa Orbis Victoria,ul. Królewska 11, Warszawa,52.242,21.011,,,zamkniete,Orbis,Działało w hotelu Sofitel Victoria
+Kasyno Poznań Arcadia,Plac Wolności, Poznań,52.408,16.928,1990-1999,,zamkniete,,Kasyno w budynku Arkadia
+Kasyno Poznań Polonez,ul. Niezłomnych, Poznań,52.397,16.930,,2011,zamkniete,,Kasyno hotelowe utraciło koncesję
+Kasyno Wrocław Kiełbaśnicza,ul. Kiełbaśnicza 21/22, Wrocław,51.109,17.032,,,zamkniete,Hit Casino,Kasyno Hit Casino
+Kasyno Wrocław Drobnera,ul. Bolesława Drobnera 11/3, Wrocław,51.117,17.040,,,zamkniete,Casinos Poland,Kasyno Casinos Poland
+Kasyno Gdańsk Hanza,ul. Tokarska, Gdańsk,54.348,18.660,1998-02-28,2001,zamkniete,,Kasyno w hotelu Hanza
+Kasyno Kraków Novotel Bronowice,ul. Armii Krajowej 11, Kraków,50.075,19.883,,,zamkniete,Casinos Poland,Działało w hotelu Novotel Bronowice
+Kasyno Kraków Orbis Cracovia,ul. Focha, Kraków,50.056,19.925,,,zamkniete,Orbis,Działało w hotelu Orbis Cracovia
+Kasyno Gdańsk Jack Pol,Teatr Muzyczny, Gdańsk,54.518,18.531,1990-1999,,zamkniete,Jack Pol,Popularne miejsce w latach 90.
+Kasyno Częstochowa oficerskie,ul. Kościuszki 10, Częstochowa,50.812,19.121,1920-09-20,1939,zamkniete,wojsko,Kasyno oficerskie garnizonu częstochowskiego
+Kasyno Sopot międzywojenne,Grand Hotel, Sopot,54.444,18.568,1920,1944,historyczne,Zoppoter Kasino,Kasyno w Grand Hotelu w latach 20. i 30. XX wieku
+Kasyno Warszawa Szucha,ul. Szucha, Warszawa,52.210,21.020,1940,1944,historyczne,niemieckie,Kasyno dla oficerów niemieckich podczas okupacji
